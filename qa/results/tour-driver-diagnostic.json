@@ -1,0 +1,51 @@
+{
+  "sourceSha256": "52cc9de89fe0f3fa0b1364aec5d32d91c2be8753cd84bbc82dc43997ce574a7e",
+  "passes": [
+    {
+      "warm": true,
+      "samples": {
+        "count": 230,
+        "errors": [],
+        "changes": [
+          [
+            0.13360000000000127,
+            1
+          ],
+          [
+            3.999999999999993,
+            0.83
+          ]
+        ]
+      },
+      "console": {
+        "errors": [],
+        "warnings": [],
+        "externalRequests": [],
+        "requests": [
+          "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+        ]
+      }
+    },
+    {
+      "warm": false,
+      "samples": {
+        "count": 250,
+        "errors": [],
+        "changes": [
+          [
+            0.13280000000000314,
+            1
+          ]
+        ]
+      },
+      "console": {
+        "errors": [],
+        "warnings": [],
+        "externalRequests": [],
+        "requests": [
+          "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "format": "9x16",
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "sourceSha256": "3be5599fa93e874e71880ba66aa1d1588a968891b11f8b882a408471e9c60411",
+  "totalSamples": 2236,
+  "capturedSamples": 2236,
+  "frameFiles": 2235,
+  "captureSeconds": 313.65,
+  "renderer": {
+    "webgl2": true,
+    "samples": 8,
+    "renderer": "ANGLE (Intel, Intel(R) Arc(TM) Graphics (0x00007D55) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "vendor": "Google Inc. (Intel)"
+  },
+  "loop": {
+    "rgbMeanAbs": 0.0,
+    "max": 0,
+    "actualSourceSeamMean": 0.063195,
+    "actualSourceSeamP99": 2.0
+  },
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "externalRequests": [],
+    "requests": [
+      "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+    ]
+  },
+  "endpointBuild": "56874338aabdcc60da9f3245407cdfe1b92deff251fdc6bf8ded49838120c0f2",
+  "resume": "Reused all 2235 sequential source PNGs. Replayed every fixed-time sample in the release build and regenerated the verification endpoint.",
+  "endpointReplaySeconds": 18.06,
+  "captureTiming": "Interval between first and last numbered file writes.",
+  "decodedFrames": 2235,
+  "variableFrameIntervals": 0,
+  "stream": "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, 14003 kb/s, 60 fps, 60 tbr, 15360 tbn (default)",
+  "actualEncodedSeam": {
+    "rgbMeanAbs": 0.494624,
+    "p99": 7.0
+  },
+  "mp4": "out\\df02_9x16.mp4",
+  "bytes": 65231976,
+  "encodeVerifySeconds": 46.54
+}

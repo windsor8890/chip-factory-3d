@@ -1,0 +1,58 @@
+[
+  {
+    "event": "initial",
+    "errors": [],
+    "w": 1920,
+    "h": 1080,
+    "full": false,
+    "driverWarnings": []
+  },
+  {
+    "event": "v",
+    "errors": [],
+    "w": 608,
+    "h": 1080,
+    "full": false,
+    "driverWarnings": []
+  },
+  {
+    "event": "v",
+    "errors": [],
+    "w": 1920,
+    "h": 1080,
+    "full": false,
+    "driverWarnings": []
+  },
+  {
+    "event": "f",
+    "errors": [],
+    "w": 1920,
+    "h": 1080,
+    "full": true,
+    "driverWarnings": []
+  },
+  {
+    "event": "f",
+    "errors": [],
+    "w": 1920,
+    "h": 1080,
+    "full": false,
+    "driverWarnings": []
+  },
+  {
+    "event": "small",
+    "errors": [],
+    "w": 800,
+    "h": 600,
+    "full": false,
+    "driverWarnings": []
+  },
+  {
+    "event": "restore",
+    "errors": [],
+    "w": 1920,
+    "h": 1080,
+    "full": false,
+    "driverWarnings": []
+  }
+]

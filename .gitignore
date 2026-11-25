@@ -1,0 +1,12 @@
+# Full-resolution recording output, reproducible with qa/record.py.
+/frames/
+/out/
+/qa/pilot/
+__pycache__/
+*.py[cod]
+
+# Individual transition captures are summarized in the tracked contact sheets.
+/qa/results/final/*/handoffs/
+/qa/results/final/*/return-handoffs/
+/qa/results/gray/*/handoffs/
+/qa/results/gray/*/chapters/

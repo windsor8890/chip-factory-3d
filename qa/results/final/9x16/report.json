@@ -1,0 +1,2014 @@
+{
+  "phase": "final",
+  "format": "9x16",
+  "viewport": [
+    1080,
+    1920
+  ],
+  "sourceSha256": "52cc9de89fe0f3fa0b1364aec5d32d91c2be8753cd84bbc82dc43997ce574a7e",
+  "errors": [],
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "externalRequests": [],
+    "requests": [
+      "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+    ]
+  },
+  "chapters": [
+    {
+      "ordinal": 0,
+      "sec": 0.882,
+      "index": 0,
+      "q": 0.18488924999999995,
+      "layout": {
+        "tags": 2,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 438.234375,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 666.25,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 666.25,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 666.25,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "厂区总览",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 1,
+      "sec": 4.6850000000000005,
+      "index": 1,
+      "q": 1.3721201316578222,
+      "layout": {
+        "tags": 3,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 454.0625,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 659.46875,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 659.46875,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 659.46875,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "打开厂房",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 2,
+      "sec": 7.529,
+      "index": 2,
+      "q": 2.362481895781163,
+      "layout": {
+        "tags": 3,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 469.875,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 743.4375,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 743.4375,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 743.4375,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "追踪晶圆盒",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 3,
+      "sec": 9.767999999999999,
+      "index": 3,
+      "q": 3.080372886621266,
+      "layout": {
+        "tags": 2,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 501.515625,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 690.765625,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 690.765625,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 690.765625,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "进入黄光区",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 4,
+      "sec": 11.049,
+      "index": 3,
+      "q": 3.645856573468174,
+      "layout": {
+        "tags": 2,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 517.34375,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 628.171875,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 628.171875,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 628.171875,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "真空舱内",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 5,
+      "sec": 14.596999999999998,
+      "index": 4,
+      "q": 4.509732869971515,
+      "layout": {
+        "tags": 2,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 533.15625,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 688.21875,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 688.21875,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 688.21875,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "光之路",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 6,
+      "sec": 17.679,
+      "index": 5,
+      "q": 5.413943773187842,
+      "layout": {
+        "tags": 2,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 564.796875,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 720.609375,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 720.609375,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 720.609375,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "一片晶圆",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 7,
+      "sec": 20.388,
+      "index": 6,
+      "q": 6.411966835827669,
+      "layout": {
+        "tags": 2,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 580.625,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 690.765625,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 690.765625,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 690.765625,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "裸片版图",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 8,
+      "sec": 23.135,
+      "index": 7,
+      "q": 7.411978627728206,
+      "layout": {
+        "tags": 2,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 596.4375,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 659.46875,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 659.46875,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 659.46875,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "铜互连",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 9,
+      "sec": 26.336000000000002,
+      "index": 8,
+      "q": 8.831209175398996,
+      "layout": {
+        "tags": 1,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 628.078125,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 837.46875,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 837.46875,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 837.46875,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "三层纳米片",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    },
+    {
+      "ordinal": 10,
+      "sec": 36.9875,
+      "index": 0,
+      "q": 0.3506817670105109,
+      "layout": {
+        "tags": 2,
+        "clashes": [],
+        "critical": [
+          {
+            "x": 64.796875,
+            "y": 201.59375,
+            "r": 561.578125,
+            "b": 270.59375,
+            "id": "DF-0212 英寸晶圆厂SEMIC"
+          },
+          {
+            "x": 64.796875,
+            "y": 307.1875,
+            "r": 438.234375,
+            "b": 338.1875,
+            "id": "pzoom"
+          },
+          {
+            "x": 64.796875,
+            "y": 1163.953125,
+            "r": 690.765625,
+            "b": 1190.953125,
+            "id": "chapterid"
+          },
+          {
+            "x": 64.796875,
+            "y": 1210.140625,
+            "r": 690.765625,
+            "b": 1288.4375,
+            "id": "chaptername"
+          },
+          {
+            "x": 64.796875,
+            "y": 1295.15625,
+            "r": 690.765625,
+            "b": 1342.015625,
+            "id": "chaptercopy"
+          }
+        ],
+        "title": "返回厂区",
+        "titlePx": 62.64,
+        "copyPx": 30.24
+      }
+    }
+  ],
+  "handoffs": [
+    {
+      "from": 0,
+      "to": 1,
+      "sec": 3.640955056179775,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 0.9914062499999999,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 76.0,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 0.9942708333333332,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 74.03,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 0.9971354166666666,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 71.74,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 1.0028645833333332,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 67.15,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 1.0057291666666666,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 65.05,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 1.00859375,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 63.16,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "sec": 6.4488202247191015,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 1.9914062500000003,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 47.16,
+          "p97": 184.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 1.9942708333333334,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 45.68,
+          "p97": 184.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 1.9971354166666668,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 44.35,
+          "p97": 184.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 2.0028645833333334,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 42.54,
+          "p97": 185.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 2.005729166666667,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 42.12,
+          "p97": 185.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 2.00859375,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 41.9,
+          "p97": 185.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "sec": 9.354318181818181,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 2.99140625,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 121.66,
+          "p97": 221.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 2.994270833333333,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 115.89,
+          "p97": 219.03,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 2.9971354166666666,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 109.08,
+          "p97": 218.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 3.0028645833333334,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 95.27,
+          "p97": 217.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 3.005729166666667,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 89.03,
+          "p97": 217.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 3.00859375,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 83.57,
+          "p97": 217.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "sec": 12.219999999999999,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 3.99140625,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 84.6,
+          "p97": 207.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 3.994270833333333,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 77.43,
+          "p97": 195.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 3.997135416666666,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 69.97,
+          "p97": 185.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 4.002864583333333,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 55.84,
+          "p97": 165.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 4.005729166666667,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 49.97,
+          "p97": 161.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 4.00859375,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 44.96,
+          "p97": 157.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "sec": 16.341075949367088,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 4.99140625,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 56.83,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 4.994270833333333,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 53.65,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 4.997135416666667,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 50.5,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 5.002864583333333,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 45.04,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 5.005729166666667,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 42.78,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 5.00859375,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 40.9,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "sec": 19.24629213483146,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 5.99140625,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 105.89,
+          "p97": 167.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 5.994270833333333,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 99.7,
+          "p97": 166.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 5.997135416666667,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 92.93,
+          "p97": 165.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 6.002864583333333,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 79.15,
+          "p97": 164.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 6.005729166666667,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 72.56,
+          "p97": 164.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 6.00859375,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 66.25,
+          "p97": 163.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "sec": 21.97241573033708,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 6.99140625,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 107.05,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 6.994270833333333,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 100.68,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 6.997135416666667,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 93.7,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 7.002864583333333,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 79.56,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 7.005729166666667,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 72.89,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 7.00859375,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 66.59,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "sec": 24.546702127659575,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 7.99140625,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 113.99,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 7.994270833333333,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 108.07,
+          "p97": 196.03,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 7.997135416666667,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 101.38,
+          "p97": 194.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 8.002864583333333,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 87.35,
+          "p97": 183.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 8.005729166666667,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 80.5,
+          "p97": 181.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 8.00859375,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 73.93,
+          "p97": 181.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    }
+  ],
+  "stages": [
+    {
+      "index": 0,
+      "active": [
+        0
+      ],
+      "calls": 63,
+      "tris": 55592
+    },
+    {
+      "index": 1,
+      "active": [
+        1
+      ],
+      "calls": 66,
+      "tris": 33974
+    },
+    {
+      "index": 2,
+      "active": [
+        2
+      ],
+      "calls": 127,
+      "tris": 51950
+    },
+    {
+      "index": 3,
+      "active": [
+        3
+      ],
+      "calls": 77,
+      "tris": 16210
+    },
+    {
+      "index": 4,
+      "active": [
+        4
+      ],
+      "calls": 118,
+      "tris": 46930
+    },
+    {
+      "index": 5,
+      "active": [
+        5
+      ],
+      "calls": 11,
+      "tris": 10559
+    },
+    {
+      "index": 6,
+      "active": [
+        6
+      ],
+      "calls": 7,
+      "tris": 8198
+    },
+    {
+      "index": 7,
+      "active": [
+        7
+      ],
+      "calls": 35,
+      "tris": 111872
+    },
+    {
+      "index": 8,
+      "active": [
+        8
+      ],
+      "calls": 95,
+      "tris": 9818
+    }
+  ],
+  "gpu": {
+    "webgl2": true,
+    "samples": 8,
+    "renderer": "ANGLE (Intel, Intel(R) Arc(TM) Graphics (0x00007D55) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "vendor": "Google Inc. (Intel)"
+  },
+  "duration": 37.25,
+  "loadMilliseconds": 636,
+  "chapterConsole": {
+    "errors": [],
+    "warnings": [],
+    "externalRequests": [],
+    "requests": [
+      "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+    ]
+  },
+  "stageWorst": [
+    {
+      "calls": 66,
+      "tris": 55592
+    },
+    {
+      "calls": 43,
+      "tris": 17034
+    },
+    {
+      "calls": 110,
+      "tris": 26890
+    },
+    {
+      "calls": 56,
+      "tris": 8302
+    },
+    {
+      "calls": 85,
+      "tris": 25722
+    },
+    {
+      "calls": 14,
+      "tris": 10975
+    },
+    {
+      "calls": 11,
+      "tris": 8226
+    },
+    {
+      "calls": 26,
+      "tris": 56416
+    },
+    {
+      "calls": 52,
+      "tris": 5330
+    }
+  ],
+  "returnHandoffs": [
+    {
+      "from": 8,
+      "to": 7,
+      "sec": 27.696120689655245,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 8.008593749999989,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 73.93,
+          "p97": 181.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 8.005729166666654,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 80.5,
+          "p97": 181.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 8.00286458333332,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 87.35,
+          "p97": 183.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 7.997135416666655,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 101.38,
+          "p97": 194.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 7.994270833333321,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 108.07,
+          "p97": 196.03,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 7.991406249999987,
+          "active": [
+            7,
+            8
+          ],
+          "mean": 113.99,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 7,
+      "to": 6,
+      "sec": 28.92580049261055,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 7.00859375000005,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 66.59,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 7.005729166666717,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 72.89,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 7.002864583333383,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 79.56,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 6.997135416666717,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 93.7,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 6.994270833333383,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 100.68,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 6.9914062500000504,
+          "active": [
+            6,
+            7
+          ],
+          "mean": 107.05,
+          "p97": 168.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 6,
+      "to": 5,
+      "sec": 30.15548029556645,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 6.00859375000001,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 66.25,
+          "p97": 163.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 6.0057291666666766,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 72.56,
+          "p97": 164.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 6.002864583333343,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 79.15,
+          "p97": 164.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 5.997135416666676,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 92.93,
+          "p97": 165.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 5.994270833333343,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 99.7,
+          "p97": 166.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 5.99140625000001,
+          "active": [
+            5,
+            6
+          ],
+          "mean": 105.89,
+          "p97": 167.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 5,
+      "to": 4,
+      "sec": 31.38516009852235,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 5.00859374999997,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 40.9,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 5.005729166666637,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 42.78,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 5.002864583333302,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 45.04,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 4.997135416666636,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 50.5,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 4.994270833333302,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 53.65,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 4.99140624999997,
+          "active": [
+            4,
+            5
+          ],
+          "mean": 56.83,
+          "p97": 182.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 4,
+      "to": 3,
+      "sec": 32.61483990147765,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 4.008593750000031,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 44.96,
+          "p97": 157.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 4.005729166666698,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 49.97,
+          "p97": 161.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 4.0028645833333645,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 55.84,
+          "p97": 165.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 3.9971354166666986,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 69.97,
+          "p97": 185.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 3.994270833333365,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 77.43,
+          "p97": 195.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 3.9914062500000322,
+          "active": [
+            3,
+            4
+          ],
+          "mean": 84.6,
+          "p97": 207.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 3,
+      "to": 2,
+      "sec": 33.84451970443355,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 3.008593749999991,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 83.53,
+          "p97": 217.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 3.005729166666658,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 88.99,
+          "p97": 217.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 3.0028645833333245,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 95.25,
+          "p97": 217.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 2.997135416666658,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 109.23,
+          "p97": 218.03,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 2.994270833333325,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 116.1,
+          "p97": 220.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 2.991406249999992,
+          "active": [
+            2,
+            3
+          ],
+          "mean": 121.87,
+          "p97": 221.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 2,
+      "to": 1,
+      "sec": 35.07419950738945,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 2.008593749999951,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 41.89,
+          "p97": 185.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 2.0057291666666175,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 42.11,
+          "p97": 185.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 2.0028645833332845,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 42.54,
+          "p97": 185.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 1.9971354166666182,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 44.35,
+          "p97": 184.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 1.9942708333332848,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 45.68,
+          "p97": 184.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 1.9914062499999519,
+          "active": [
+            1,
+            2
+          ],
+          "mean": 47.16,
+          "p97": 184.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    },
+    {
+      "from": 1,
+      "to": 0,
+      "sec": 36.303879310344755,
+      "samples": [
+        {
+          "frameOffset": -3,
+          "q": 1.0085937500000128,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 63.16,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -2,
+          "q": 1.0057291666666797,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 65.04,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": -1,
+          "q": 1.0028645833333465,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 67.15,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 1,
+          "q": 0.9971354166666802,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 71.74,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 2,
+          "q": 0.994270833333347,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 74.04,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        },
+        {
+          "frameOffset": 3,
+          "q": 0.9914062500000139,
+          "active": [
+            0,
+            1
+          ],
+          "mean": 76.0,
+          "p97": 199.0,
+          "anchorDistance": 0.0,
+          "boundsOffset": 0.0
+        }
+      ],
+      "maxAnchorOffset": 0,
+      "maxProjectedBoundsOffset": 0
+    }
+  ],
+  "loop": {
+    "mean": 0.0,
+    "max": 0
+  },
+  "flicker": {
+    "pixels": 960994,
+    "mean": 0.0,
+    "p99": 0.0,
+    "max": 0
+  },
+  "sectionFlicker": {
+    "pixels": 955129,
+    "mean": 0.0,
+    "p99": 0.0,
+    "max": 0
+  }
+}

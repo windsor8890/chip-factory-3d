@@ -1,0 +1,641 @@
+{
+  "checks": [
+    {
+      "name": "cold standalone startup, desktop HUD and payload",
+      "pass": true,
+      "evidence": {
+        "offline": true,
+        "readyMs": 1108,
+        "navigationWallMs": 2643,
+        "sizeBytes": 877168
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "click stage index and hotkey stage jumps",
+      "pass": true,
+      "evidence": [
+        6,
+        8,
+        0
+      ],
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "wheel continuous scrub",
+      "pass": true,
+      "evidence": {
+        "before": 2.43,
+        "after": 2.9145000000000003
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "D toggles data layer",
+      "pass": true,
+      "evidence": {
+        "default": true,
+        "afterFirstPress": false
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "L toggles annotations",
+      "pass": true,
+      "evidence": {
+        "default": true,
+        "afterFirstPress": false
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "H toggles UI",
+      "pass": true,
+      "evidence": {
+        "default": false,
+        "afterFirstPress": true
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "V switches native aspect layout",
+      "pass": true,
+      "evidence": {
+        "default": false,
+        "afterFirstPress": true
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "simulation speed selector",
+      "pass": true,
+      "evidence": {
+        "controls": [
+          2,
+          4,
+          1
+        ],
+        "measuredClockRates": [
+          2.0,
+          4.03,
+          1.04
+        ]
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "Space, Escape and drag control tour",
+      "pass": true,
+      "evidence": "Space / Escape and drag both exited the tour.",
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "drag orbits camera",
+      "pass": true,
+      "evidence": {
+        "initial": [
+          -45.900000000000006,
+          7.6000000000000005
+        ],
+        "final": [
+          -95.85000000000002,
+          20.600000000000005
+        ]
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "Shift-wheel lens zoom, dock reset and stage menu",
+      "pass": true,
+      "evidence": {
+        "localZoom": [
+          1,
+          1.1853048513203654
+        ],
+        "resetStage": 0
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "machine beacon, inspector and dismissal",
+      "pass": true,
+      "evidence": {
+        "clicked": "0",
+        "selected": 0
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "F fullscreen",
+      "pass": true,
+      "evidence": "Fullscreen entered and exited.",
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "seeded alarms recover after 6–15 seconds",
+      "pass": true,
+      "evidence": {
+        "eventsObserved": 40,
+        "minS": 6,
+        "maxS": 15,
+        "channels": [
+          "capacity",
+          "wip",
+          "yield",
+          "oee",
+          "oht",
+          "clean",
+          "particles",
+          "temp",
+          "rh",
+          "upw",
+          "mw"
+        ]
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "24 actual instance lamps and parked equipment actuators",
+      "pass": true,
+      "evidence": {
+        "physicalUnits": 24,
+        "colorChecks": 144,
+        "bad": [],
+        "downId": 2,
+        "parkedDown": [
+          -21.870685577392578,
+          -21.870685577392578
+        ],
+        "parkedIdle": [
+          -9.699999809265137,
+          -9.699999809265137
+        ],
+        "restart": [
+          -22.461130142211914,
+          -22.6901912689209
+        ]
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "real-clock, ordered 11-chapter playback",
+      "pass": true,
+      "evidence": {
+        "marks": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          0
+        ],
+        "seconds": 4.65569999999404,
+        "focus": true,
+        "hidden": false
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "1920x1080 live hardware frame timing",
+      "pass": true,
+      "evidence": [
+        {
+          "stage": 0,
+          "p50Ms": 16.7,
+          "p95Ms": 16.8,
+          "fps": 60.0,
+          "dpr": 1,
+          "calls": 63,
+          "samples": 4,
+          "renderedFrames": 92,
+          "pageFocus": true
+        },
+        {
+          "stage": 1,
+          "p50Ms": 16.7,
+          "p95Ms": 16.8,
+          "fps": 60.0,
+          "dpr": 1,
+          "calls": 39,
+          "samples": 4,
+          "renderedFrames": 92,
+          "pageFocus": true
+        },
+        {
+          "stage": 2,
+          "p50Ms": 16.7,
+          "p95Ms": 16.8,
+          "fps": 60.0,
+          "dpr": 1,
+          "calls": 106,
+          "samples": 4,
+          "renderedFrames": 92,
+          "pageFocus": true
+        },
+        {
+          "stage": 3,
+          "p50Ms": 16.7,
+          "p95Ms": 16.8,
+          "fps": 60.0,
+          "dpr": 1,
+          "calls": 52,
+          "samples": 4,
+          "renderedFrames": 92,
+          "pageFocus": true
+        },
+        {
+          "stage": 4,
+          "p50Ms": 16.7,
+          "p95Ms": 16.8,
+          "fps": 60.0,
+          "dpr": 1,
+          "calls": 81,
+          "samples": 4,
+          "renderedFrames": 92,
+          "pageFocus": true
+        },
+        {
+          "stage": 5,
+          "p50Ms": 16.7,
+          "p95Ms": 16.8,
+          "fps": 60.0,
+          "dpr": 1,
+          "calls": 11,
+          "samples": 4,
+          "renderedFrames": 92,
+          "pageFocus": true
+        },
+        {
+          "stage": 6,
+          "p50Ms": 16.7,
+          "p95Ms": 16.8,
+          "fps": 60.0,
+          "dpr": 1,
+          "calls": 7,
+          "samples": 4,
+          "renderedFrames": 92,
+          "pageFocus": true
+        },
+        {
+          "stage": 7,
+          "p50Ms": 16.7,
+          "p95Ms": 16.8,
+          "fps": 60.0,
+          "dpr": 1,
+          "calls": 22,
+          "samples": 4,
+          "renderedFrames": 92,
+          "pageFocus": true
+        },
+        {
+          "stage": 8,
+          "p50Ms": 16.7,
+          "p95Ms": 16.8,
+          "fps": 60.0,
+          "dpr": 1,
+          "calls": 50,
+          "samples": 4,
+          "renderedFrames": 92,
+          "pageFocus": true
+        }
+      ],
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "mobile native viewport and safe items",
+      "pass": true,
+      "evidence": {
+        "w": 393,
+        "h": 698,
+        "scroll": 393,
+        "critical": [
+          {
+            "key": "",
+            "x": 23.578125,
+            "y": 73.28125,
+            "r": 204.9375,
+            "b": 102.28125,
+            "size": 16,
+            "visible": true
+          },
+          {
+            "key": "pzoom",
+            "x": 23.578125,
+            "y": 111.671875,
+            "r": 159.40625,
+            "b": 122.671875,
+            "size": 9.825,
+            "visible": true
+          },
+          {
+            "key": "chapterid",
+            "x": 23.578125,
+            "y": 421.6875,
+            "r": 239.90625,
+            "b": 431.6875,
+            "size": 8.4495,
+            "visible": true
+          },
+          {
+            "key": "chaptername",
+            "x": 23.578125,
+            "y": 438.65625,
+            "r": 239.90625,
+            "b": 467.140625,
+            "size": 22.794,
+            "visible": true
+          },
+          {
+            "key": "chaptercopy",
+            "x": 23.578125,
+            "y": 469.578125,
+            "r": 239.90625,
+            "b": 486.625,
+            "size": 11.004,
+            "visible": true
+          }
+        ],
+        "pinch": [
+          2.43,
+          3.3665083043523243
+        ]
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "query flags, manual stage, low quality and still clock",
+      "pass": true,
+      "evidence": {
+        "index": 7,
+        "rate": 4,
+        "data": false,
+        "labels": false,
+        "hide": true,
+        "quality": 0.77,
+        "msaa": 0
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "burned-in 9:16 film text and 2.39:1 scope masking",
+      "pass": true,
+      "evidence": {
+        "chapterFontSizes": [
+          {
+            "title": "厂区总览",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "打开厂房",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "追踪晶圆盒",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "进入黄光区",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "真空舱内",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "光之路",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "一片晶圆",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "裸片版图",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "铜互连",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "三层纳米片",
+            "px": 65,
+            "bodyPx": 30
+          },
+          {
+            "title": "返回厂区",
+            "px": 65,
+            "bodyPx": 30
+          }
+        ],
+        "scopeBarPixels": 138.33
+      },
+      "newConsoleWarnings": 0
+    },
+    {
+      "name": "independent 60fps recorder sessions produce exact same frames",
+      "pass": true,
+      "evidence": {
+        "pixels": [
+          3669725134,
+          4241745204,
+          1401640971,
+          3032104106,
+          1298432201,
+          3752258507,
+          324205188,
+          2784279510
+        ],
+        "times": [
+          0,
+          0.016666666666666666,
+          0.03333333333333333,
+          0.05,
+          0.06666666666666667,
+          0.08333333333333333,
+          0.1,
+          0.11666666666666667
+        ],
+        "digits": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "dpr": 1,
+        "samples": 4
+      },
+      "newConsoleWarnings": 0
+    }
+  ],
+  "errors": [],
+  "browser": "158.0.8127.37",
+  "sourceSha256": "52cc9de89fe0f3fa0b1364aec5d32d91c2be8753cd84bbc82dc43997ce574a7e",
+  "consoles": [
+    {
+      "errors": [],
+      "warnings": [],
+      "externalRequests": [],
+      "requests": [
+        "file:///D:/code/chip-factory-3d/chip-fab-3d.html",
+        "file:///D:/code/chip-factory-3d/chip-fab-3d.html",
+        "file:///D:/code/chip-factory-3d/chip-fab-3d.html",
+        "file:///D:/code/chip-factory-3d/chip-fab-3d.html",
+        "file:///D:/code/chip-factory-3d/chip-fab-3d.html",
+        "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+      ]
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "externalRequests": [],
+      "requests": [
+        "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+      ]
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "externalRequests": [],
+      "requests": [
+        "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+      ]
+    },
+    {
+      "errors": [],
+      "warnings": [],
+      "externalRequests": [],
+      "requests": [
+        "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+      ]
+    }
+  ],
+  "gpu": {
+    "webgl2": true,
+    "samples": 8,
+    "renderer": "ANGLE (Intel, Intel(R) Arc(TM) Graphics (0x00007D55) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "vendor": "Google Inc. (Intel)"
+  },
+  "fileBytes": 877168,
+  "firstReadyMs": 1108,
+  "timing": [
+    {
+      "stage": 0,
+      "p50Ms": 16.7,
+      "p95Ms": 16.8,
+      "fps": 60.0,
+      "dpr": 1,
+      "calls": 63,
+      "samples": 4,
+      "renderedFrames": 92,
+      "pageFocus": true
+    },
+    {
+      "stage": 1,
+      "p50Ms": 16.7,
+      "p95Ms": 16.8,
+      "fps": 60.0,
+      "dpr": 1,
+      "calls": 39,
+      "samples": 4,
+      "renderedFrames": 92,
+      "pageFocus": true
+    },
+    {
+      "stage": 2,
+      "p50Ms": 16.7,
+      "p95Ms": 16.8,
+      "fps": 60.0,
+      "dpr": 1,
+      "calls": 106,
+      "samples": 4,
+      "renderedFrames": 92,
+      "pageFocus": true
+    },
+    {
+      "stage": 3,
+      "p50Ms": 16.7,
+      "p95Ms": 16.8,
+      "fps": 60.0,
+      "dpr": 1,
+      "calls": 52,
+      "samples": 4,
+      "renderedFrames": 92,
+      "pageFocus": true
+    },
+    {
+      "stage": 4,
+      "p50Ms": 16.7,
+      "p95Ms": 16.8,
+      "fps": 60.0,
+      "dpr": 1,
+      "calls": 81,
+      "samples": 4,
+      "renderedFrames": 92,
+      "pageFocus": true
+    },
+    {
+      "stage": 5,
+      "p50Ms": 16.7,
+      "p95Ms": 16.8,
+      "fps": 60.0,
+      "dpr": 1,
+      "calls": 11,
+      "samples": 4,
+      "renderedFrames": 92,
+      "pageFocus": true
+    },
+    {
+      "stage": 6,
+      "p50Ms": 16.7,
+      "p95Ms": 16.8,
+      "fps": 60.0,
+      "dpr": 1,
+      "calls": 7,
+      "samples": 4,
+      "renderedFrames": 92,
+      "pageFocus": true
+    },
+    {
+      "stage": 7,
+      "p50Ms": 16.7,
+      "p95Ms": 16.8,
+      "fps": 60.0,
+      "dpr": 1,
+      "calls": 22,
+      "samples": 4,
+      "renderedFrames": 92,
+      "pageFocus": true
+    },
+    {
+      "stage": 8,
+      "p50Ms": 16.7,
+      "p95Ms": 16.8,
+      "fps": 60.0,
+      "dpr": 1,
+      "calls": 50,
+      "samples": 4,
+      "renderedFrames": 92,
+      "pageFocus": true
+    }
+  ]
+}

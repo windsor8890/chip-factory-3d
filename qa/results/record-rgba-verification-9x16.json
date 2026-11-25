@@ -1,0 +1,28 @@
+{
+  "format": "9x16",
+  "width": 1080,
+  "height": 1920,
+  "method": "SHA-256 of full-resolution RGBA8, row-major; every frame advanced by __rec.step().",
+  "recordBuild": "3be5599fa93e874e71880ba66aa1d1588a968891b11f8b882a408471e9c60411",
+  "releaseBuild": "52cc9de89fe0f3fa0b1364aec5d32d91c2be8753cd84bbc82dc43997ce574a7e",
+  "framesCompared": 2235,
+  "mismatches": 0,
+  "mismatchIndices": [],
+  "referenceSequenceSha256": "a8c4e430e1f8da00ac33d0a2dda3bfa3d1d3bee000e4bd8c9fe17425eb15d4c0",
+  "releaseSequenceSha256": "a8c4e430e1f8da00ac33d0a2dda3bfa3d1d3bee000e4bd8c9fe17425eb15d4c0",
+  "renderer": {
+    "webgl2": true,
+    "samples": 8,
+    "renderer": "ANGLE (Intel, Intel(R) Arc(TM) Graphics (0x00007D55) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "vendor": "Google Inc. (Intel)"
+  },
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "externalRequests": [],
+    "requests": [
+      "file:///D:/code/chip-factory-3d/chip-fab-3d.html"
+    ]
+  },
+  "seconds": 64.05
+}

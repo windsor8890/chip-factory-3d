@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.jpg binary
+*.png binary
+
+# Preserve the byte-exact offline release and its embedded upstream library.
+/chip-fab-3d.html -text
+/vendor/three-r160.min.js -text
