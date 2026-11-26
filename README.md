@@ -4,6 +4,11 @@
 
 在 GitHub 上打开 HTML 文件页，点击 **Download raw file**，保存后即可离线运行。[预览 11 章巡游](./qa/results/final/16x9/chapters.jpg)
 
+## 创作提示词
+
+- 原稿的 14 节要求涵盖九个尺度的场景设计、约 92 秒的巡游分镜、录制方法和验收清单。[详细版](./prompts/detailed.md)
+- 原稿末尾用三行概括镜头路线、画面风格和成片规格，可直接复制。[简版](./prompts/short.md)
+
 ## 浏览和操作
 
 |操作|效果|
